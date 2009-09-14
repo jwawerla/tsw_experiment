@@ -1,0 +1,21 @@
+# Created by Octave 3.0.1, Wed Sep 09 15:10:41 2009 PDT <jwawerla@marvin2>
+# name: avgTime
+# type: matrix
+# rows: 1
+# columns: 6
+ 1858.136999999999 2909.934 3631.777999999999 4555.970000000001 5170.991 5475.471
+# name: stdTime
+# type: matrix
+# rows: 1
+# columns: 6
+ 825.2207059118529 1184.258030870303 1271.343178886413 1336.958324599975 1206.013615606927 1208.691916807821
+# name: maxTime
+# type: matrix
+# rows: 1
+# columns: 6
+ 5726.2 7218.3 8345.200000000001 8341.799999999999 9409.5 8922.700000000001
+# name: minTime
+# type: matrix
+# rows: 1
+# columns: 6
+ 428.2 1244.6 1704.3 1944.2 3323.7 3954.2
